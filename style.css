@@ -1,7 +1,10 @@
+* {
+  transition: all ease 0.2s;
+}
+
 body {
   margin: 0;
   padding: 0;
-  transition: all ease 0.2s;
 }
 
 #menu, ul, li {
